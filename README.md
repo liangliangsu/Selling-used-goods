@@ -6,7 +6,7 @@ This project is an extended project of a previous competition hosted in kaggle.c
 ## Goals
 1. Establish database by scrapping data from popular used item selling websites. (Progressing)
 2. Train models to predict the deal probability at seller side. (Half completed)
-3. Train models to predict the estimated values of used goods. (Planned)
+3. Train models to predict the estimated values of used goods at buyer side. (Planned)
 4. Search engine that can automaticlly target great deals. (Planned)
 
 ## Data source
