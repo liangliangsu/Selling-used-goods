@@ -1,7 +1,7 @@
 # Selling-used-goods Project
 
 ## Summary
-This project is an extended project of a previous competition hosted in kaggle.com (Avito Demand Prediction Challenge). In this project, I will scrap data from popular used item selling websites to establish database. Prediction models will be trained to predict the deal probability at seller side. Also prediction models will be trained to predict the estimated values based on features of used items. At final stage, I will make an web application that can automaticlly target great deals based on previous trained models.
+This project is an extended project of a previous competition hosted in kaggle.com (Avito Demand Prediction Challenge). In this project, I will scrap data from popular used item selling websites to establish database. Prediction models will be trained to predict the deal probability at seller side. Also prediction models will be trained to predict the estimated values based on features of used items. At final stage, I will make a web application that can automaticlly target great deals based on previous trained models.
 
 ## Goals
 1. Establish database by scrapping data from popular used item selling websites. (Progressing)
